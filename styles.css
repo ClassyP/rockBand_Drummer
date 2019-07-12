@@ -19,7 +19,12 @@ h1 {
 
 footer {
   color: #DBEDF3;
-  font-family: sans-serif;
+  font-family: sans-serif;  
+  /* width: 100%; */
+  text-align: center;
+  background-color: #03256C;
+  padding: 2rem;
+  position: relative;
 }
 
 .w {
